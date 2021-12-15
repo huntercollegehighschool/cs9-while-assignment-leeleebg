@@ -29,4 +29,4 @@ while num != 0 :
   elif num%2 != 0: 
     num = int(input("Enter a number or 0 to stop: "))
 
-print("Number of evens: ", total)
+print("Number of evens: ", total) 
